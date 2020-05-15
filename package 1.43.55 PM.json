@@ -1,0 +1,31 @@
+{
+  "name": "tutorials",
+  "version": "1.0.0",
+  "description": "node.js Rest Apis with Express, Sequelize MySql",
+  "main": "server.js",
+  "scripts": {
+    "build": "react-scripts build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "sequelize",
+    "mysql",
+    "rest",
+    "api"
+  ],
+  "author": "Nicholas Fischer, Jonathan Dekraker",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "build": "^0.1.4",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "fund": "^1.0.0",
+    "ionic-native": "https://github.com/ionic-team/ionic-native/tarball/v3.5.0",
+    "mysql2": "^2.1.0",
+    "react-scripts": "^3.4.1",
+    "sequelize": "^5.21.9"
+  }
+}
